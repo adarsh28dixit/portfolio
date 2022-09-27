@@ -41,7 +41,7 @@ const Footer = () => {
       <FooterContacts>
         <FooterContact>
           <ContactHeader></ContactHeader>
-          <ContactLink href="tel:+917607235050">Phone</ContactLink>
+          {/* <ContactLink href="tel:+917607235050">Phone</ContactLink> */}
         </FooterContact>
         <FooterContact>
           <ContactHeader></ContactHeader>{" "}
@@ -71,9 +71,9 @@ const Footer = () => {
         </FooterContact>
         <FooterContact>
           <ContactHeader></ContactHeader>
-          <ContactLink href="">
+          {/* <ContactLink href="">
           adarsh28dixit@gmail.com
-          </ContactLink>
+          </ContactLink> */}
         </FooterContact>
       </FooterContacts>
 
